@@ -1,0 +1,13 @@
+Welcome to the beddate 0.9.5 readme. This program
+isn't really a serious one, it's just something I played
+with a while back to get a little experience working
+in C++.  I'm releasing the source in hopes that someone
+will get some use out of it.  I plan on doing a GUI up for this
+and then maybe looking at a PPC version.  Any questions,
+direct them at poiuyt@maine.rr.com (yes that's me) and
+I'll look confused and write a reply (notice that no 
+adjectives like helpful or intelligent modify reply)
+
+
+Later,
+Bill
